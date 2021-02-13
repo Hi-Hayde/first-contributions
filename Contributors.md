@@ -1,4 +1,6 @@
 ﻿# Contributors
+- [Eduardo Lerma](URL pend in blue, no lleva espacio.)
+ 
 
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
 - [Matt Herman](https://github.com/mhermandesign)
